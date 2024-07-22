@@ -1,4 +1,4 @@
-package Patterns;
+package patterns;
 
 public class InvertedStars {
     public static void main(String[] args) {

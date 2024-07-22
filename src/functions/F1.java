@@ -1,3 +1,5 @@
+package functions;
+
 public class F1 {
     public static int printHello(){
         System.out.println("hello world");

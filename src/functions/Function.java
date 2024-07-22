@@ -1,3 +1,5 @@
+package functions;
+
 public class Function {
     public static void main(String[] args) {
         int result = add(5, 3);
