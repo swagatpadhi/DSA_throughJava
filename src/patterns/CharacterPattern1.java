@@ -1,6 +1,6 @@
 package patterns;
 /*
-A
+miscellaneous.A
 BC
 DEF
 GHIJ

@@ -1,5 +1,5 @@
 package patterns;
-//A
+//miscellaneous.A
 //AB
 //ABC
 //ABCD

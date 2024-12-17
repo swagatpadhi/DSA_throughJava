@@ -1,3 +1,5 @@
+package miscellaneous;
+
 import java.util.*;
     public class PrintSums {
         public static void main(String[] args) {
